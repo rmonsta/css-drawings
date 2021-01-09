@@ -2,4 +2,4 @@
 
 **Pengsoo:**
 
-![](C:\Users\adsle\Documents\freecodecamp\css_drawings\img\pengsoo-pg.jpg)
+![Pengsoo](https://github.com/rmonsta/css-drawings/blob/master/img/pengsoo-pg.jpg?raw=true)
