@@ -2,7 +2,4 @@
 
 **Pengsoo:**
 
-![alt text](https://github.com/rmonsta/css_drawings/blob/master/img/pengsoo-pg.jpg?raw=true) 
-
-
-
+![](C:\Users\adsle\Documents\freecodecamp\css_drawings\img\pengsoo-pg.jpg)
